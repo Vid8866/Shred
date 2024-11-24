@@ -1,3 +1,8 @@
 ## Shred
-Aplikacija katera vam pomaga se povezati s ostalimi bordarji/smučarji v vaši okolici.
+Družbeno omrežje z namenom povezovanja bordarjev/smučarjev v lokalni reigiji.
+
+**Kratek opis projekta**
+- vsak uporabnik ima profil s podatki: starost, šport(bordanje/smučcanje), nivo znanja
+- vsak uporabnik lahko ustvari dogodek/skupno vožnjo z podrobnostimi kot so kraj in čas srečanja, vrsta aktivnosti, nivo zahtevnosti
+
 
